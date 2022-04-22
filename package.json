@@ -1,0 +1,19 @@
+{
+  "name": "hellomicroverse",
+  "version": "1.0.0",
+  "description": "Introduction to HTML AND CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbbyNyakara/HelloMicroverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbbyNyakara/HelloMicroverse/issues"
+  },
+  "homepage": "https://github.com/AbbyNyakara/HelloMicroverse#readme"
+}
